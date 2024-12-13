@@ -2,7 +2,7 @@
 BrailleSense is a glove paired with an application designed to empower blind users to interact with media. The gloves enable reading, writing, commanding, and connecting to various electronic devices.📱🧤
 
 ## Competition
-- Student Innovation Challenge 2024 - Finalist🎖
+- Student Innovation Challenge (SIC) 2024 - Finalist🎖
 
 ## Tools
 - React
