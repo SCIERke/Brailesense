@@ -9,3 +9,6 @@ BrailleSense is a glove paired with an application designed to empower blind use
 - Node-red
 - MongoDB
 - Express.js
+- Arduino 
+- ESP32
+- ESP8266
